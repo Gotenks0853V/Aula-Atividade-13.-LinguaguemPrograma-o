@@ -13,3 +13,5 @@ O valor 3.0 em centímetros corresponde a 1.1811023622047243 em polegadas
 O valor 2.0 em centímetros corresponde a 0.7874015748031495 em polegadas
  cmParaPol: 
 O valor 5.0 em centímetros corresponde a 1.968503937007874 em polegadas
+ cmParaPol: 
+O valor 1.0 em centímetros corresponde a 0.39370078740157477 em polegadas
