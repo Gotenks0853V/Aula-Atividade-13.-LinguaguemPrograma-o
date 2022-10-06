@@ -1,0 +1,15 @@
+
+ cmParaPol: 
+O valor 4.0 em centímetros corresponde a 1.574803149606299 em polegadass
+ cmParaPol: 
+O valor 45.0 em centímetros corresponde a 17.716535433070867 em polegadas
+ cmParaPol: 
+O valor 1.0 em centímetros corresponde a 0.39370078740157477 em polegadas
+ cmParaPol: 
+O valor 32.0 em centímetros corresponde a 12.598425196850393 em polegadas
+ cmParaPol: 
+O valor 3.0 em centímetros corresponde a 1.1811023622047243 em polegadas
+ cmParaPol: 
+O valor 2.0 em centímetros corresponde a 0.7874015748031495 em polegadas
+ cmParaPol: 
+O valor 5.0 em centímetros corresponde a 1.968503937007874 em polegadas
